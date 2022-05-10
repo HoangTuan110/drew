@@ -1,3 +1,3 @@
 # `drew`
 
-A pretty shitty drawing tool in the CLI.
+A pretty shitty drawing tool for the terminal.
